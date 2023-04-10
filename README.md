@@ -2,4 +2,4 @@
 
 Jadi disini kita bakal kerja bareng untuk membuat website dengan bantuan github.
 
-Ada notes untuk to do list, in progress, sama done di bagian menu PROJECT.
+Ada notes untuk to do list, in progress, done di bagian menu Projects
